@@ -1,6 +1,8 @@
 # MSP-GAD
 We provide the code (in pytorch) and datasets for our paper: 
 
+**Learning Transferable Structure-Aware Normality for Fully Unsupervised Cross-Domain Graph Anomaly Detection**
+
 ## Description
 
 
